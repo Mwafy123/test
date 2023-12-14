@@ -8,7 +8,7 @@ int main()
   
 
     
-    cout << hello omarrrr!\n";
+    cout << hello mama!\n";
    
 
 
